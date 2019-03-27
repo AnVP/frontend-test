@@ -1,0 +1,21 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "env": {
+    "es6": true,
+    "browser": true,
+    "jquery": true
+  },
+  "extends": "htmlacademy/es6",
+  "rules": {},
+  "globals": {
+    "window": true,
+    "document": true,
+    "svg4everybody": true,
+    "Swiper": true,
+    "autosize": true,
+    "scrollLock": true
+  }
+}
